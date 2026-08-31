@@ -1,5 +1,7 @@
 # Dual-UAV Oil Pipeline Inspection & Defect Detection System
 
+![Drone on Inspection Flight](https://github.com/carloscs04/uav-vision-pipeline-inspection/blob/39bc6a0bbae6f7e0f1dd2cf915ccea36bbb87ed3/docs/assets/drone_flying.jpg)
+
 An automated, dual-UAV inspection framework developed in collaboration with **Quanser** for pipeline surveillance, real-time hazard identification, and coordinated re-inspection of defective duct segments using DJI Tello micro-drones.
 
 ---

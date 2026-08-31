@@ -1,4 +1,4 @@
-# Dual-UAV Oil Pipeline Inspection & Defect Detection System
+# Dual-UAV Vision-Based Inspection of Oil Pipelines Using Line Tracking and YOLO-Based Anomaly Detection
 
 ![Drone on Inspection Flight](https://github.com/carloscs04/uav-vision-pipeline-inspection/blob/39bc6a0bbae6f7e0f1dd2cf915ccea36bbb87ed3/docs/assets/drone_flying.jpg)
 

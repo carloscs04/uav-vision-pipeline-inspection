@@ -1,0 +1,1 @@
+global frame_global

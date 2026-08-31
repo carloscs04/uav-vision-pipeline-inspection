@@ -1,0 +1,13 @@
+# Entornos virtuales (ignorados en cualquier ubicación)
+tello_env/
+archive/tello_env/
+venv/
+.venv/
+
+# Archivos temporales de Python y editores
+__pycache__/
+*.pyc
+.vscode/
+
+# Pesos de modelos grandes (opcional si son muy pesados)
+*.pt
